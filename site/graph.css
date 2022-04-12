@@ -1,0 +1,39 @@
+		.meuovo {
+			background-image: url("https://c.tenor.com/CkObCaBFiUoAAAAd/monkey-makeup.gif");
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		
+		.buttonbutton1 {
+		  	color: darkred;
+		  	padding: 5px 20px;
+		  	text-align: center;
+		  	text-decoration: none;
+		  	display: inline-block;
+		  	font-size: 16px;
+		  	margin: 4px 2px;
+		  	cursor: pointer;
+		  	background-color: greenyellow;
+		}
+		
+		.will {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		.windsu {
+			display: block;
+			width: 500px;
+			height: 500px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		.luciano {
+			display: block;
+			width: 500px;
+			height: 500px;
+			margin-left: auto;
+			margin-right: auto;
+		}
